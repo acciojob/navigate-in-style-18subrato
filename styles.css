@@ -1,11 +1,14 @@
 .container{
-	background-color:rgb(211,211,211);
-	padding:10px;
-	ul{
-		list-style:none;
-		display:flex;
+	nav{
+		background-color:rgb(211,211,211);
+		padding:10px;
+	}
+	
+		
+		
 		li{
 			margin-right:16px;
+			display:inline;
+			list-style:none;
 		}
-	}
 }
